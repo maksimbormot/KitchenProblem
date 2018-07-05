@@ -1,0 +1,9 @@
+/node_modules/*
+/.idea/*
+/.vscode/*
+error.log
+access.log
+package-lock.json
+/**/bundle.js
+/**/bundle.js.gz
+/**/upload/*
